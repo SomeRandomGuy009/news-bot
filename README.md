@@ -28,5 +28,5 @@ Open a PR or an Issue for contribution.
      2. Use newspaper3k module's newspaper.keywords to get the keywords of the article and find a relevant video to use.
      
 ## Credits
-Thanks to 1. ChatGPT for helping me generate this README.
+Thanks to 1. ChatGPT for helping me generate this README.<br>
           2. Lewis for giving this idea
